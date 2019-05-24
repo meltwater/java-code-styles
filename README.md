@@ -1,7 +1,13 @@
 Java Code Styles
 ================
 
-IntelliJ IDEA code style settings for Square's Java and Android projects.
+This is a fork of Square's java code style. 
+
+## Changes 
+
+- Indentation is 4 spaces (instead of 2) for Java, Groovy, and Kotlin
+- Renamed the formatter to "Meltwater" (instead of "Square")
+- Removed Android specific config
 
 
 Installation
@@ -10,7 +16,7 @@ Installation
  * On Unix, run the `install.sh` script. Windows users should use `install.bat` instead.
  * Restart IntelliJ if it's running.
  * Open IntelliJ Project Settings -> Code Styles, change the code style for the
-   project to the one you want.
+   project to the one you want. 
 
 
 License
