@@ -6,6 +6,7 @@ This is a fork of Square's java code style.
 ## Changes 
 
 - Indentation is 4 spaces (instead of 2) for Java, Groovy, and Kotlin
+- Max line length is 200 (instead of 100)
 - Renamed the formatter to "Meltwater" (instead of "Square")
 - Removed Android specific config
 
